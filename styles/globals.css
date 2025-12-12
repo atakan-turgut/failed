@@ -3,5 +3,6 @@
 @tailwind utilities;
 
 body {
-  font-family: system-ui, sans-serif;
+  font-family: 'DM Sans', sans-serif;
+  background-color: #f9fafb;
 }
